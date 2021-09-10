@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @n01472825 (Sandeep Das)
+- 👀 I’m interested in JAVA and look forward to learn the latest tech stacks and frameworks associated
+- 🌱 I’m currently learning Web Development, JAVA, DB programming, OS
+- 💞️ I’m looking to collaborate on any challenging project to which I can contribute with my primitive coding skills
+- 📫 You can reach me on +1 647-829-4540 OR n01472825@humbermail.ca
